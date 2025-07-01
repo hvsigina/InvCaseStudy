@@ -56,3 +56,5 @@ The business objectives and goals of data analysis are pretty straightforward.
 
 The entire assignment is divided into checkpoints to help you navigate. For each checkpoint, you are advised to fill in the tables into the spreadsheet provided in the download segment. The tables are also mentioned under the 'Results Expected' section after each checkpoint. Since this is the first assignment, you have been provided with some additional guidance. Going forward you will be expected to structure and solve the problem by yourself, just like you would be solving problems in real life scenarios.
 
+Input files explained in INPUTS file.
+CHECKPOINTS file contains expected results after analysis.
